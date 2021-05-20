@@ -1,8 +1,8 @@
 # vuedemo2.0
 
-> demo
+> Vue demo Build Setup
 
-## Build Setup
+## Vue demo Build Setup
 
 ``` bash
 # install dependencies
